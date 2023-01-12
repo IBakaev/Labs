@@ -1,0 +1,6 @@
+﻿  main (2).cpp
+c:\лаба2\main (2).cpp(6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  list.cpp
+  flat.cpp
+  Создание кода...
+  LABA2.vcxproj -> C:\Лаба2\LABA2\Debug\LABA2.exe

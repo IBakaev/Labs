@@ -1,0 +1,8 @@
+Lenina 1 5 4 43 1 0
+Perevetkina 1 23 4 43 1 1
+Komarova 1 3 9 0 6 1
+Lomonosova 0 0 0 0 0 0 
+Lomonosova 2 0 5 3 0 0 
+Lomonosova 5 0 4 6 0 0 
+Lomonosova 2 0 3 4 0 0 
+
